@@ -1,0 +1,8 @@
+{
+  "name": "management-board",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TnRuslan/management-board.git",
+  "author": "TnRuslan <ruslantendora@gmail.com>",
+  "license": "MIT"
+}
